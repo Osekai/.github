@@ -1,3 +1,4 @@
+![](https://github.com/Osekai/.github/blob/main/profile/osekai-banner.png?raw=true)
 # hey there, we're osekai.
 we're developing an open source website for osu!, with medal solutions, alternative rankings, version archival, and more. check it out [here](https://osekai.net).
 
